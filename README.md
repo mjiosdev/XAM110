@@ -1,4 +1,4 @@
-# XAM110 - Introduction to Cross-Platform Mobile Development 
+# XAM110 - Introduction to the Cross-Platform Mobile Development 
 
 This repository contains exercises for the Xamarin University [XAM110 - Introduction to Cross-Platform Mobile Development ](http://university.xamarin.com/classes/#xam110-introduction-to-cross-platform-mobile-development) training course.
 
